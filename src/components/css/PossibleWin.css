@@ -1,0 +1,11 @@
+.PossibleWin {
+    color: #57a9ec;
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-weight: 400;
+}
+.PossibleWin span {
+    font-weight: 700;
+}

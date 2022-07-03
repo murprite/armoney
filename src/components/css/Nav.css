@@ -1,0 +1,14 @@
+.navList {
+    list-style: none;
+    display: flex;
+}
+
+.navList > * {
+    margin-right: 15px;
+    cursor: pointer;
+}
+.navLink a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 500;
+}
